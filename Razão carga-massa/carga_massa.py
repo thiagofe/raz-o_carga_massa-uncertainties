@@ -1,9 +1,6 @@
 """
-- Lab. Física Moderna: cálculos da razão carga-massa
-* Bobinas de Helmholtz
-
+Lab. de Física Moderna: cálculos da razão carga-massa
 Autor: Thiago Ferreira Santos <thiagorepos@gmail.com>
-
 License: MIT License (https://opensource.org/licenses/MIT)
 """
 
