@@ -1,6 +1,7 @@
 """
 Lab. de Física Moderna: cálculos da razão carga-massa
 Autor: Thiago Ferreira Santos <thiagorepos@gmail.com>
+Versão: 0.3
 License: MIT License (https://opensource.org/licenses/MIT)
 """
 
