@@ -2,7 +2,7 @@
 
 **carga_massa.py** pode ser aplicado no experimento razão carga-massa, experimento encontrado em Laboratórios de Física Moderna, para efetuar cálculos que envolvem incertezas experimenttais, como por exemplo, campo magnético e razão carga-massa do elétron.
 
-Para executar **carga_massa.py**, utilize um interpretadore Python ou [Jupyter Notebook](https://jupyter.org/), contanto é necessário realizar instalação do módulo [Python Uncertainties](https://pythonhosted.org/uncertainties/), vide abaixo guia de instalação. 
+Para executar **carga_massa.py**, utilize um interpretador Python ou [Jupyter Notebook](https://jupyter.org/), contanto é necessário realizar instalação do módulo [Python Uncertainties](https://pythonhosted.org/uncertainties/), vide abaixo guia de instalação. 
 
 ## Instalação do Módulo Python Uncertainties
 
