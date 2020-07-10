@@ -1,3 +1,12 @@
+"""
+- Lab. Física Moderna: cálculos da razão carga-massa
+* Bobinas de Helmholtz
+
+Autor: Thiago Ferreira Santos <thiagorepos@gmail.com>
+
+License: MIT License (https://opensource.org/licenses/MIT)
+"""
+
 from uncertainties import *
 from uncertainties import unumpy
 
