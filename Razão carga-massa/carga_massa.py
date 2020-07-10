@@ -42,7 +42,7 @@ for x in carga_massa:
 
 # potencial elétrico para a configuração r2
 print("\n Configuração r2 da trajetória do elétron \n")
-U2vetor = unumpy.uarray([100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300],[0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 2, 2, 2, 2])
+U2vetor = unumpy.uarray([100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300],[0.8, 0.9, 1, 1, 1, 1, 1, 2, 2, 2, 2])
 
 # corrente elétrica para a configuração r2
 I2vetor = unumpy.uarray([1.60, 1.62, 1.84, 2.02, 2.17, 2.33, 2.43, 2.50, 2.65, 2.79, 2.87],[0.25, 0.25, 0.26, 0.26, 0.27, 0.27, 0.27, 0.27, 0.28, 0.28, 0.29])
@@ -59,7 +59,7 @@ for x in carga_massa:
 
 # potencial elétrico para a configuração r3
 print("\n Configuração r3 da trajetória do elétron \n")
-U3vetor = unumpy.uarray([100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300],[0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.4, 2, 2, 2, 2])
+U3vetor = unumpy.uarray([100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300],[0.8, 0.9, 1, 1, 1, 1, 1, 2, 2, 2, 2])
 
 # corrente elétrica para a configuração r3
 I3vetor = unumpy.uarray([1.12, 1.13, 1.33, 1.47, 1.59, 1.70, 1.79, 1.90, 2.00, 1.67, 2.12],[0.23, 0.23, 0.24, 0.24, 0.25, 0.25, 0.25, 0.26, 0.26, 0.25, 0.27])
