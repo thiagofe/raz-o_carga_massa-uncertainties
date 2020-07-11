@@ -1,6 +1,6 @@
 # Razão carga-massa
 
-O algoritmo [carga-massa.py](https://github.com/thiagofe/razao_carga_massa-uncertainties/blob/master/Raz%C3%A3o%20carga-massa/carga-massa.py) pode ser aplicado no experimento razão carga-massa, experimento encontrado em Laboratórios de Física Moderna, para efetuar cálculos que envolvem incertezas experimenttais, como por exemplo, campo magnético e razão carga-massa do elétron.
+O algoritmo [carga-massa.py](https://github.com/thiagofe/razao_carga_massa-uncertainties/blob/master/Raz%C3%A3o%20carga-massa/carga-massa.py) pode ser aplicado no experimento razão carga-massa para efetuar cálculos que envolvem incertezas experimentais, como por exemplo, campo magnético e razão carga-massa do elétron.
 
 Para executar **carga-massa.py**, utilize um interpretador Python ou [Jupyter Notebook](https://jupyter.org/), contanto é necessário realizar instalação do módulo [Python Uncertainties](https://pythonhosted.org/uncertainties/), vide abaixo guia de instalação. 
 
