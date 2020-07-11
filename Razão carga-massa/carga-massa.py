@@ -1,5 +1,5 @@
 """
-Laboratório. de Física Moderna: análise de dados do experimento razão carga-massa
+Laboratório de Física Moderna: Análise de dados do experimento razão carga-massa
 Autor: Thiago Ferreira Santos | e-mail: thiagorepos@gmail.com
 Versão: 0.3
 License: MIT License (https://opensource.org/licenses/MIT)
