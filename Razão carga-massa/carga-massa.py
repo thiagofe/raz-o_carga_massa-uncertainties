@@ -8,8 +8,8 @@ License: MIT License (https://opensource.org/licenses/MIT)
 from uncertainties import *
 from uncertainties import unumpy
 
-# permissividade elétrica no vácuo
-u0 = 1.26e-6
+# permissividade elétrica no vácuo (Vs/Am)
+u0 = 1.257e-6
 
 # raio do arranjo de Helmholtz com duas bobinas: 0.20 m
 R = 0.20
